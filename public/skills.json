@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "HTML5",
+        "image": "https://i.ibb.co/0BvR4xw/html5.png"
+    },
+    {
+        "id": "2",
+        "name": "CSS3",
+        "image": "https://i.ibb.co/st2s7bx/css.png"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript",
+        "image": "https://i.ibb.co/pvb5vfF/js.png"
+    },
+    {
+        "id": "4",
+        "name": "Bootstrap",
+        "image": "https://i.ibb.co/XVXMr89/bs.png"
+    },
+    {
+        "id": "5",
+        "name": "Tailwind",
+        "image": "https://i.ibb.co/k6wtwWW/tailwind.png"
+    },
+    {
+        "id": "6",
+        "name": "Node JS",
+        "image": "https://i.ibb.co/Jmg47sS/nodejs.png"
+    },
+    {
+        "id": "7",
+        "name": "MongoDB",
+        "image": "https://i.ibb.co/KwgSr2Q/mongo.png"
+    },
+    {
+        "id": "8",
+        "name": "Express JS",
+        "image": "https://i.ibb.co/dkFb1DF/express.png"
+    }
+]
