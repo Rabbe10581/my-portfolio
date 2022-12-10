@@ -1,20 +1,11 @@
+import { RouterProvider } from 'react-router-dom';
 import './App.css';
-import Navbar from './Shared/Navbar/Navbar';
-import Banner from './pages/Banner/Banner';
-import Skills from './pages/Skills/Skills';
-import Projects from './pages/Projects/Projects';
-import Contact from './pages/Contact/Contact';
-import Footer from './Shared/Footer/Footer';
+import router from './Router/Routes/Routes';
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <Banner />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
+    <div >
+      <RouterProvider router={router}></RouterProvider>
     </div>
   );
 }
