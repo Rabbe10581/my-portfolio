@@ -9,7 +9,7 @@ const Home = () => {
         <div>
             <Banner />
             <Skills />
-            <Projects />
+            {/* <Projects /> */}
             <Contact />
         </div>
     );

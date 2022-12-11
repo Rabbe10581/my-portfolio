@@ -5,11 +5,11 @@ import SkillCard from './SkillCard';
 
 const Skills = () => {
     const skills = useLoaderData()
-    console.log(skills);
+    // console.log(skills);
 
 
     return (
-        <div className="hero bg-slate-400 py-24">
+        <div className="hero bg-slate-200 py-24">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <div className='w-1/2'>
                     <p className='text-orange-500 font-semibold font-serif'>My Skills</p>
