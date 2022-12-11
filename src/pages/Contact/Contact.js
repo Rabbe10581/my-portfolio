@@ -32,7 +32,7 @@ const Contact = () => {
         e.target.reset()
     };
     return (
-        <div className='contact-form'>
+        <div className='contact-form lg:py-16'>
             <Form onSubmit={handleOnSubmit}>
                 <Form.Field
                     id='form-input-control-email'

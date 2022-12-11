@@ -6,7 +6,7 @@ import Skills from '../Skills/Skills';
 
 const Home = () => {
     return (
-        <div>
+        <div className='bg-slate-200'>
             <Banner />
             <Skills />
             {/* <Projects /> */}
