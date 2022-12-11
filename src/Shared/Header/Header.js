@@ -13,7 +13,7 @@ const Header = () => {
     </>
 
     return (
-        <div className="navbar bg-stone-300">
+        <div className="navbar bg-stone-200">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -30,7 +30,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <h2 className="text-3xl font-semibold lg:pr-6 text-sky-500">Md Fazla Rabbe</h2>
+                <h2 className="text-xl font-semibold lg:pr-6 text-sky-500">Md Fazla Rabbe</h2>
             </div>
         </div>
     );

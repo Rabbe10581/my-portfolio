@@ -3,11 +3,15 @@
         "id": "1",
         "projects_name": "Motorbike Storehouse",
         "technologies": "React JS, Node JS, Express JS, Firebase, Tailwind CSS, React Hook, MongoDB.",
-        "image": "",
+        "image": "https://i.ibb.co/Kh1ds4n/Screenshot-305.png",
         "features": [
             {
-                "first": "Three roles can participate. Admin, Buyer & Seller.",
-                "second": "Admin can see all buyers, and sellers can handle them.",
+                "first": "Three roles can participate. Admin, Buyer & Seller."
+            },
+            {
+                "second": "Admin can see all buyers, and sellers can handle them."
+            },
+            {
                 "third": "Buyers can buy and see orders, and sellers can upload and see products."
             }
         ]
@@ -16,11 +20,15 @@
         "id": "2",
         "projects_name": "Programming Easy",
         "technologies": "React JS, Node JS, Express JS, React Router Dom, Firebase, Bootstrap, React Icons.",
-        "image": "",
+        "image": "https://i.ibb.co/w0fsJwF/Screenshot-306.png",
         "features": [
             {
-                "first": "Users can choose any of the given courses",
-                "second": "Users can download the course's pdf.",
+                "first": "Users can choose any of the given courses"
+            },
+            {
+                "second": "Users can download the course's pdf."
+            },
+            {
                 "third": "Private routes and redirects as well."
             }
         ]
@@ -29,11 +37,15 @@
         "id": "3",
         "projects_name": "Awesome Clicks",
         "technologies": "React JS, Node JS, Express JS, React Router Dom, Firebase, Tailwind CSS, MongoDB.",
-        "image": "",
+        "image": "https://i.ibb.co/tBc1mzQ/Screenshot-307.png",
         "features": [
             {
-                "first": "Users can check photos category-wise.",
-                "second": "Users can give reviews and ratings.",
+                "first": "Users can check photos category-wise."
+            },
+            {
+                "second": "Users can give reviews and ratings."
+            },
+            {
                 "third": "Admin can update all the categories and services."
             }
         ]
